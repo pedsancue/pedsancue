@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedsancue&show_icons=true&theme=gotham&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<a href="www.linkedin.com/in/pedro-j-sanchez-cuevas">
+<a href="https://www.linkedin.com/in/pedro-j-sanchez-cuevas">
   <img align="left" alt="pedsancue's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
