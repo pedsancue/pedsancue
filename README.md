@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${pedsancue}.${pedsancue})
+# Glad to see you here! 
 
 <!--
 **pedsancue/pedsancue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> 
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedsancue&show_icons=true&theme=gotham&hide_border=true&&count_private=true&include_all_commits=true" />
-
+--> 
 <a href="https://www.linkedin.com/in/pedro-j-sanchez-cuevas">
   <img align="left" alt="pedsancue's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
